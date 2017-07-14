@@ -1,0 +1,5 @@
+{
+	"packages": [
+		"./schedule-list.js"
+	]
+}
